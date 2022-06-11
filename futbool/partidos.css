@@ -1,0 +1,53 @@
+.Tabla{
+    margin-left: 40%;
+    margin-top: 5%;
+    border-spacing: 0;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 1px 1px 2px 1px rgb(10, 10, 10);
+    text-align: center;
+}
+.Tabla>thead>tr>th{
+    background-color: #45b845;
+    color: white;
+    height: 2rem;
+   
+    
+}
+.Tabla>thead>tr>th,td{
+    border: 1px solid rgb(45, 45, 51);
+    padding: 5px;
+}
+
+
+.btnEnviar {
+    color: white;
+    background-color: blue;
+    width: 80px;
+    height: 40px;
+    transition-duration: 0.4s;
+    border-radius: 50px;
+    border-color: aliceblue;
+  }
+  .btnEnviar:hover {
+    color: white;
+    background-color: #8dafee;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 30px ;
+    border-color: #1cf8e6;
+  }
+  header{
+      background-color: #1901f3;
+      text-align: center;
+      border: solid black 2px;
+      border-radius: 5px;
+  }
+  section{
+      margin-top: 10px;
+      background-color: rgba(127, 172, 255, 0.616);
+      border: solid black 1px;
+      width: 50%;
+      margin-left: 25%;
+      padding: 8px;
+  }

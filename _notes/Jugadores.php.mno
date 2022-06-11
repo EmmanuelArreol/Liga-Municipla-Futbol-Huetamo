@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_jugador" value="name:id_jugador;datatype:int,name:numero_dorsal;datatype:int,name:nombre;datatype:string,name:posicion;datatype:string,name:equipo;datatype:string" />
+	<infoitem key="UD_jugador2" value="name:id_jugador;datatype:int,name:numero_dorsal;datatype:int,name:nombre;datatype:string,name:posicion;datatype:string,name:equipo;datatype:string" />
+</info>
